@@ -1,3 +1,5 @@
+**⚠️ This repository has moved.** The researcher UI now lives in [ga4gh/ga4gh-reference-cloud](https://github.com/ga4gh/ga4gh-reference-cloud/tree/develop/apps/researcher-ui) under `apps/researcher-ui/`. This repo is archived and read-only.
+
 # GA4GH Reference Cloud UI
 
 UI for the [GA4GH Reference Cloud](https://github.com/ga4gh/ga4gh-reference-cloud)
